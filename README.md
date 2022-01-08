@@ -3,9 +3,9 @@
 
 
 Prerequisites to run:
-Pysc2 v.1.2
-Numpy
-Pandas
+Pysc2 v.1.2,
+Numpy,
+Pandas,
 StarCraft 2 https://starcraft2.com/en-us/
 
 To run:
