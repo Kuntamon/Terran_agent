@@ -293,4 +293,3 @@ class QLearningTable:
             self.q_table = self.q_table.append(
                 pd.Series([0] * len(self.actions), index=self.q_table.columns, name=state))
 
-    # python -m pysc2.bin.agent --map Simple64 --agent terran_agent.TerranAgent --agent_race T --max_agent_steps 0 --norender
